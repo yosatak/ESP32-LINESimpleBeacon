@@ -1,4 +1,4 @@
-#include "LineBeacon.h"
+#include "LINESimpleBeacon.h"
 
 LINEBeacon::LINEBeacon(uint8_t *hardwareId, m_deviceMessage *dm) {
 
